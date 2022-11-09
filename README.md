@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@Elijahdre](https://github.com/Elijahdre)
 - Twitter: [@Kingglijah](https://twitter.com/kingglijah)
-- LinkedIn: [Elijah Odjegba](https://www.linkedin.com/in/elijah-odjegba-862708179/)
+- LinkedIn: [Elijah Odjegba](https://www.linkedin.com/in/elijah-odjegba/)
 
 
 ## 🤝 Contributing
